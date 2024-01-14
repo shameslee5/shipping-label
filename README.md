@@ -1,1 +1,1 @@
-# shipping-label
+A [shipping label](https://munbyn.com/collections/custom-labels) contains the information a carrier needs to get your package from its origin to its destination. It includes a scannable barcode with a tracking number that enables the carrier to provide delivery updates.
